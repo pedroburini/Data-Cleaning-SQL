@@ -119,25 +119,4 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate;
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 Data-Cleaning-in-SQL
- ┣ 📄 README.md
- ┗ 📄 DataCleaningQueries.sql
-```
-
----
-
-## 📊 Future Work
-
-This cleaned dataset is now ready for:
-- Data Visualization (Power BI, Tableau)
-- Exploratory Data Analysis (EDA)
-- Predictive Modeling
-
----
-
-## 🤝 Let's Connect
-
-If you liked this project or have feedback, feel free to connect with me on [LinkedIn](#) or check out my other projects.
+*Developed by [Pedro Burini](https://github.com/pedroburini)*
